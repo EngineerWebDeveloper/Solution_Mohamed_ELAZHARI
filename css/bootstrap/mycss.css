@@ -1,0 +1,24 @@
+
+
+#myform  {
+     position: relative;
+    left: 330px;
+    top:58px;
+    background-color: #b0e0e6;
+}
+#search{
+	position: relative;
+	left: 30px;
+	border: 2px solid;
+    border-radius: 25px;
+}
+#table{
+	position: absolute;
+	left: 300px;
+	
+	
+}
+body {
+    background-color: lightblue;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
